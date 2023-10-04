@@ -1,0 +1,12 @@
+Server started !
+Server started !
+Server is already running !
+Server stopped !
+Server was stopped !
+Server was stopped !
+Server started !
+Server is already running !
+Server started !
+Client connected: TCPConnection: /127.0.0.1: 52981
+TCPConnection exception: java.net.SocketException: Connection reset
+Client disconnected: TCPConnection: /127.0.0.1: 52981
